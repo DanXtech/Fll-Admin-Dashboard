@@ -1,6 +1,6 @@
 <div align="center">
-![GitHub live demo size(https://full-admin-dashboard.vercel.app/)]
-
+  
+<a href="(https://full-admin-dashboard.vercel.app/"><strong>➥ Live Demo </strong></a>
 <br/>
 
 <img src="">
@@ -8,9 +8,8 @@
 <h2 align="center">Admin - DashBoard website</h2>
 
 Admin dashBoard website which is fully responsive <br/>
-Responsive for all devices, built using React.js and bootstrap styling method. I run my api server with json which is the backend.This project I realy great Thanks for the view.
+Responsive for all devices, built using React.js and bootstrap styling method. I run my API server with JSON which is the backend. This project is really great.
 
-<a href="https://"><strong>➥ Live Demo</strong></a>
 
 </div>
 
