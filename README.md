@@ -1,7 +1,5 @@
 <div align="center">
-![GitHub repo size(https://)]
-![GitHub forks(https://)]
-![GitHub follow(https://)]
+![GitHub live demo size(https://full-admin-dashboard.vercel.app/)]
 
 <br/>
 
