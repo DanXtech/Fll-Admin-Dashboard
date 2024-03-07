@@ -6,7 +6,7 @@
 <h2 align="center">Admin - DashBoard website</h2>
 
 Admin dashBoard website which is fully responsive <br/>
-Responsive for all devices, built using React.js and bootstrap styling method. I run my API server with JSON which is the backend. This project is really great.
+Responsive for all devices, built using React.js and bootstrap styling method. I run my API server with JSON which is the backend. This project is great.
 
 
 </div>
@@ -20,7 +20,7 @@ Responsive for all devices, built using React.js and bootstrap styling method. I
 ![Admin - DashBoard Desktop Demo](./readme-images/Dashboard-Admin-view.png "Desktop Demo")
 
 ### Demo Moblie Screenshots
-<div align="center">
+
   ![Admin - DashBoard Moblie Demo](./readme-images/mobile-Tab-veiw.gif "Moblie Demo")
-</div>
+
 
