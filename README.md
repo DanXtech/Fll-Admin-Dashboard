@@ -15,10 +15,12 @@ Responsive for all devices, built using React.js and bootstrap styling method. I
 
 <br />
 
-### Demo Desktop Screeshots
+### Demo Desktop Screenshots
 
 ![Admin - DashBoard Desktop Demo](./readme-images/Dashboard-Admin-view.png "Desktop Demo")
 
-### Demo Moblie Screeshots
+### Demo Moblie Screenshots
+<div align="center">
+  ![Admin - DashBoard Moblie Demo](./readme-images/mobile-Tab-veiw.gif "Moblie Demo")
+</div>
 
-![Admin - DashBoard Moblie Demo](./readme-images/mobile-Tab-veiw.gif "Moblie Demo")
