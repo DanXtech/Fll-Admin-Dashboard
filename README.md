@@ -3,8 +3,6 @@
 <a href="(https://full-admin-dashboard.vercel.app/"><strong>➥ Live Demo </strong></a>
 <br/>
 
-<img src="">
-
 <h2 align="center">Admin - DashBoard website</h2>
 
 Admin dashBoard website which is fully responsive <br/>
