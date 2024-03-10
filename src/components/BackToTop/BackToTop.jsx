@@ -14,7 +14,7 @@ const BackToTop = () => {
         window.scrollTo(0, 0)
     }
     return (
-        <a href=""
+        <a href="#"
             onClick={backToTop}
             className={`back-to-top d-flex-items-center justify-content-center ${scroll > 100 ? 'active' : undefined}`}
         >
